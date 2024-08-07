@@ -2,5 +2,5 @@
 .devcontainer/
 .vscode/
 Cargo.lock
-.git/
+.github/
 ./devcontainer/
