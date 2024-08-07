@@ -1,3 +1,6 @@
 **/target/
 .devcontainer/
 .vscode/
+Cargo.lock
+.git/
+./devcontainer/
